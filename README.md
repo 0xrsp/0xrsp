@@ -1,18 +1,19 @@
 ## Hi there 👋
 
-<!--
-**0xrsp/0xrsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages, tools, experience and interests
 
-Here are some ideas to get you started:
+- C/C++ low level systems programming
+- Deep knowledge of Java and JVM platform
+- Win32 API
+- x86 ASM - primarily Microsoft x64, Intel syntax
+- PL design and compilers
+- Familiarity with Git and effective VCS usage
+- IntelliJ IDEA and Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub stats
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=0xrsp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xrsp&layout=compact&langs_count=8&theme=algolia)
 
-[![0xrsp's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&include_all_commits=true&count_private=true)]
+### Contact
+
+Discord: mlodyrackz
