@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Languages, tools, experience and interests
 
 - C/C++ low level systems programming
